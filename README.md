@@ -1,2 +1,2 @@
-# C-OOP
+# C++ OOP
 oBJECT oRIENTED dESIGN 
